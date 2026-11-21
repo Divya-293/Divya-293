@@ -2,7 +2,7 @@
 - 👀 I’m interested in AR and VR app development
 - 🌱 I’m currently learning AR app development for healthcare applications
 - 💞️ I’m looking to collaborate with AR and VR app developers
-- 📫 Reach me @ https://www.linkedin.com/in/divya-johnson-0b9925248/
+- 📫 Reach me @ https://www.linkedin.com/in/divya-johnson-j
 
 <!---
 Divya-293/Divya-293 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
